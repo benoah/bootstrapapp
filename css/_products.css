@@ -1,0 +1,13 @@
+.product{
+    background-color: var(--background-dark);
+    border-radius: 15px;
+    margin-bottom: 2em;
+}
+
+
+.product .btn{
+    border:none;
+    background-color: var(--primary-colour);
+    width: 100%;
+}
+
